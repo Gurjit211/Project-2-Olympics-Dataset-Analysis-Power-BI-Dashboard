@@ -4,9 +4,6 @@
 This project is a Power BI dashboard built to explore and analyze the Olympics dataset.  
 It shows different insights about medals, players, countries, sports, and gender-based statistics.
 
-https://app.powerbi.com/groups/me/reports/66f111d5-6514-4b7a-8932-0c9f973a8418/ReportSectionf63d02231574b0467d05?experience=power-bi
-
-
 ## Overview
 The goal of this dashboard is to understand how medals were distributed across countries, players, years, and sports.  
 It also includes trends over time and comparisons between male and female athletes.
