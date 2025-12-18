@@ -17,3 +17,5 @@ It also includes trends over time and comparisons between male and female athlet
 - Top 10 players with the highest medal counts  
 - Medal distribution across different sports  
 - Count of athlete names by year and gender
+## Dashboard Preview
+https://app.powerbi.com/groups/me/reports/66f111d5-6514-4b7a-8932-0c9f973a8418/ReportSectionf63d02231574b0467d05?experience=power-bi
